@@ -1,2 +1,2 @@
-rm /home/truth/.local/share/applications/password_engine.desktop
-rm -r /home/truth/.password_engine
+rm /home/ (user) /.local/share/applications/password_engine.desktop
+rm -r /home/ (user) /.password_engine
